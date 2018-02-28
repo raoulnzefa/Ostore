@@ -1,4 +1,4 @@
-# ux
+# Ostore
 
 > A Online Vue+Node Store
 
